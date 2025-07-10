@@ -61,7 +61,8 @@ Project Structure:
   ├── Customer.java
   ├── Cart.java
   ├── CartItem.java
-  ├── ECommerceSystem.java
+  ├── ECommerceSystem.java![screenshot Nouran Hassan](https://github.com/user-attachments/assets/735fc6a2-109f-4e29-ae83-0d07cf23284f)
+
   └── ShippingService.java
  How to Run:
 • Compile and run Main.java.
